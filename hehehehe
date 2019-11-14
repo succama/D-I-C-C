@@ -1,0 +1,8 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Main {
+
+System.out.println("haha semih kan dit niet lezen");
+}
